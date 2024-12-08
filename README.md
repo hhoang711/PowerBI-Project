@@ -16,3 +16,10 @@ Skills and Technologies Used:
 Key Outcomes:
 •	Developed an intuitive dashboard enabling users to easily monitor revenue, player salary, and viewership metrics for sports leagues.
 •	Managed and dynamically updated data from the MySQL database.
+
+Insight:
+•  Revenue Distribution: Top leagues account for a significant portion of total revenue, while others lag behind.
+•  Player Salaries vs. Revenue: Higher revenues are often linked to higher average player salaries, with some exceptions.
+•  Viewership Impact: Viewership strongly correlates with revenue, emphasizing the importance of media rights and marketing.
+•  Regional Influence: Certain countries dominate in revenue and viewership, highlighting untapped potential in emerging markets.
+•  Performance via KPIs: Metrics like revenue, player salaries, and viewership provide a comprehensive view of league performance.
